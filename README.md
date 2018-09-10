@@ -11,8 +11,8 @@ Book directory acts as a library management system that maintains the records of
 -To manage the database using backend.py.<br />
 -To connect the GUI with backend and show the data. <br />
 
-# Tasks performed
-<b>Tasks performed by the app:-</b><br />
+# Tasks Performed
+<b>This application performs the following tasks:-</b><br />
    *View all entries<br />
    *Search entries<br />
    *Delete entries<br />
@@ -20,7 +20,7 @@ Book directory acts as a library management system that maintains the records of
    *Update selected<br />
    *Close<br />
 
-# Technologies Utilized
+# Tecnologies and Concepts used
 *Tkinter<br />
 *SQLite<br />
 *Key Concepts Applied<br />
