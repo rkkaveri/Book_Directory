@@ -30,3 +30,8 @@ Book directory acts as a library management system that maintains the records of
 * Functions<br />
 * Modules<br />
 * Files & I/O<br />
+
+# Working of System
+The following steps demonstrate how to make this system work:-
+1. First compile the backend.py file.
+2. Then, complie and execute the frontend.py file
