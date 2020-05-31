@@ -34,4 +34,10 @@ Book directory acts as a library management system that maintains the records of
 # Working of System
 The following steps demonstrate how to make this system work:-
 1. First compile the backend.py file.
+~~~
+python backend.py
+~~~
 2. Then, complie and execute the frontend.py file
+~~~
+python frontend.py
+~~~
